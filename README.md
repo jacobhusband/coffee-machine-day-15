@@ -1,4 +1,4 @@
-# coffee-machine, day 15
+# coffee-machine
 
 • Project was created as a way to increase Python skills from the course "100 Days of Code - The Complete Python Pro Bootcamp for 2021" by Dr. Angela Yu on the website www.udemy.com.
 
